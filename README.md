@@ -1,2 +1,2 @@
 # Fully-Connected-with-Numpy
-This class is an implementation of fully connected network with numpy only
+This class is an implementation of a fully connected network with numpy only
